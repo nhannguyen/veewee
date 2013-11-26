@@ -13,7 +13,7 @@ group :kvm do
 end
 
 group :windows do
-  gem "em-winrm", :git => 'https://github.com/hh/em-winrm.git', :ref => '31745601d3'
+  gem "em-winrm", :git => 'https://github.com/nhannguyen/em-winrm.git', :ref => '4576af6c76'
   gem "log4r"
 end
 
